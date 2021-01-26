@@ -3,8 +3,11 @@
     "BIDSVersion": "1.1.1",
     "Authors": [
         "Eva R. Pool",
-        "David Sander",
-        "David Munoz Tord"
+        "David Mu\u00f1oz Tord",
+        "Sylvain Delplanque",
+        "Yoann Stussi",
+        "Patrik Vuilleumier",
+        "David Sande"
     ],
     "DatasetDOI": "XXXXXXXXXX",
     "License": "CC0"
