@@ -4,12 +4,14 @@
     "Authors": [
         "Eva R. Pool",
         "David Munoz Tord",
-	"Sylvain Delplanque",
-	"Yoann Stussi",
-	"Patrik Vuilleumier",
-	"David Sander"
+        "Sylvain Delplanque",
+        "Yoann Stussi",
+        "Patrik Vuilleumier",
+        "David Sander"
     ],
-    "Funding" : ["Research grant (EMODOR – project UN9046) from Firmenich SA"],
-    "DatasetDOI": "10.18112/openneuro.ds003487",
+    "Funding": [
+        "Research grant (EMODOR \u2013 project UN9046) from Firmenich SA"
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds003487.v1.0.1",
     "License": "CC0"
 }
