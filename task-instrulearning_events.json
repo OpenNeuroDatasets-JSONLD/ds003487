@@ -1,8 +1,8 @@
 {
-    "trial_phase": "Wether it is ITI or trial phase",
-    "trial": "Counting number of trial",
-    "n_grips": "Number of grips during the trial",
-    "rewarded_response": "The response that was rewarded on this trial"
+    "trial_phase":{"Description" :  "Wether it is ITI or trial phase"},
+    "trial":{"Description" :  "Counting number of trial"},
+    "n_grips":{"Description" :  "Number of grips during the trial"},
+    "rewarded_response":{"Description" :  "The response that was rewarded on this trial"}
 
    
    }
