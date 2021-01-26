@@ -1,14 +1,11 @@
 {
-    "Name": "Differential contributions of ventral striatum subregions in the motivational and hedonic components of the affective response to reward",
+    "Name": "Wanting and Liking within the Human Ventral Striatum",
     "BIDSVersion": "1.1.1",
     "Authors": [
         "Eva R. Pool",
-        "David Munoz Tord",
-        "Sylvain Delplanque",
-        "Yoann Stussi",
-        "Patrik Vuilleumier",
-        "David Sander"
+        "David Sander",
+        "David Munoz Tord"
     ],
-    "DatasetDOI": "10.18112/openneuro.ds003487.v1.0.0",
+    "DatasetDOI": "XXXXXXXXXX",
     "License": "CC0"
 }
