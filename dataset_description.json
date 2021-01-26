@@ -4,11 +4,12 @@
     "Authors": [
         "Eva R. Pool",
         "David Munoz Tord",
-	"Sylvain Delplanque",
-	"Yoann Stussi",
-	"Patrik Vuilleumier",
-	"David Sander"
+        "Sylvain Delplanque",
+        "Yoann Stussi",
+        "Patrik Vuilleumier",
+        "David Sander"
     ],
     "DatasetDOI": "10.18112/openneuro.ds003487",
-    "License": "CC0"
+    "License": "CC0",
+    "Funding": []
 }
