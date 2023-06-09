@@ -1,12 +1,33 @@
 {
   "age": {
-    "Description": "Age in years"
+    "Description": "Age in years",
+    "Annotations": {
+      "IsAbout": {
+        "TermURL": "nb:Age",
+        "Label": ""
+      }
+    }
   },
   "sex": {
-    "Description": "self-rated by participant, M for male/F for female"
+    "Description": "self-rated by participant, M for male/F for female",
+    "Annotations": {
+      "IsAbout": {
+        "TermURL": "nb:Sex",
+        "Label": ""
+      },
+      "Levels": {
+        "F": {
+          "TermURL": "snomed:248152002",
+          "Label": ""
+        },
+        "M": {
+          "TermURL": "snomed:248153007",
+          "Label": ""
+        }
+      }
+    }
   },
   "group": {
     "Description": "Group within the project the participant belongs to"
   }
-  
 }
